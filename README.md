@@ -1,11 +1,5 @@
 - 👋 Hi, I’m @HSlawinski
-- 👀 I’m interested in building sites and applications in Java
+- 👀 I’m interested in developing more and more knowledge and skill in Java and more...
 - 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on (not available yet)
-- 📫 How to reach me (not available yet)
-- ⚡ Fun fact: (not available yet)
-
-<!---
-HSlawinski/HSlawinski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me: hs.slawinski@gmail.com
+- ⚡ Fun fact: I am fast learner and fluence in English
