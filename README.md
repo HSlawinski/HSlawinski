@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HSlawinski
 - 👀 I’m interested in developing more and more knowledge and skill in Java and more...
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Java, C++, Python and studying at WWSI.
 - 📫 How to reach me: hs.slawinski@gmail.com
 - ⚡ Fun fact: I am fast learner and fluence in English
